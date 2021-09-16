@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Nathan
+ * @package Athul
  */
 /*
 Plugin Name: Review Plugin
@@ -8,7 +8,6 @@ Plugin URI: none
 Description:  This is plugin that uses AI to find the best comments in a review
 Version: 0.1
 Author: Athul Rajagopal
-Author URI:
 License: GPLv2
 Text Domain: Rajagopal
 */
